@@ -1,14 +1,14 @@
 {
-  "name": "vuepress-theme-cosmos",
-  "version": "1.0.183",
-  "description": "Theme for VuePress static site generator used by Tendermint and Cosmos projects.",
+  "name": "vuepress-theme-tendermint",
+  "version": "1.0.184",
+  "description": "Theme for VuePress static site generator used by Tendermint.",
   "main": "index.js",
   "scripts": {
     "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cosmos/vuepress-theme-cosmos.git"
+    "url": "git+https://github.com/informalsystems/vuepress-theme-tendermint.git"
   },
   "keywords": [
     "documentation",
