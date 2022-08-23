@@ -364,7 +364,7 @@ export default {
         repo,
         editLinks,
         docsDir = "",
-        docsBranch = "master",
+        docsBranch = "main",
         docsRepo = repo
       } = this.$site.themeConfig;
       if (docsRepo && editLinks && this.$page.relativePath) {
