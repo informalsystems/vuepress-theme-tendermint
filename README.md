@@ -56,7 +56,7 @@ Most of the configuration happens in the `.vuepress/config.js` file. All paramet
 ```js
 module.exports = {
   // Enable the theme
-  theme: "cosmos",
+  theme: "tendermint",
   // Configure default title
   title: "Default title",
   themeConfig: {
