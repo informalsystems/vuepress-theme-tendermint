@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-tendermint",
-  "version": "1.0",
+  "version": "1.0.184",
   "description": "Theme for VuePress static site generator used by Tendermint.",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "keywords": [
     "documentation",
     "docs",
+    "cosmos",
     "tendermint",
     "vuepress",
     "theme"
