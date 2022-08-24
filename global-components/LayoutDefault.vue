@@ -339,7 +339,7 @@
 
   .tooltip
 
-    // temporary fixes for tooltips coming from cosmos-ui
+    // temporary fixes for tooltips coming from tendermint-vue-ui
     &__wrapper
       background white
       padding 1rem
