@@ -3,7 +3,8 @@
 [![npm version](https://img.shields.io/npm/v/vuepress-theme-tendermint)](https://www.npmjs.com/package/vuepress-theme-tendermint)
 
 This is simply a fork of the original
-<https://github.com/cosmos/vuepress-theme-cosmos> with some minor tweaks.
+<https://github.com/cosmos/vuepress-theme-cosmos> with some minor tweaks. Please
+do not use this fork!
 
 ## Install
 
